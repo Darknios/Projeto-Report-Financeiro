@@ -29,6 +29,24 @@ DAX (Data Analysis Expressions)
 
 Power Query (ETL e tratamento de dados)
 
+🗣 Storytelling para apresentar:
+
+“Nesta visão conseguimos alternar o indicador financeiro analisado. Podemos avaliar faturamento, lucro ou custo, permitindo uma leitura mais estratégica da saúde financeira do negócio.”
+
+Exemplo de análise:
+
+Se selecionar Sales:
+
+“O faturamento apresenta crescimento ao longo dos períodos analisados.”
+
+Se selecionar Profit:
+
+“Embora as vendas sejam altas, o lucro sofre variações, indicando possível impacto de custos ou descontos.”
+
+Se selecionar COGS:
+
+“Os custos acompanham o crescimento das vendas, mas em determinados períodos crescem em ritmo maior, impactando a margem.”
+
 📂 Estrutura do Projeto
 
 Report Financeiro.pbix → Arquivo principal do dashboard
